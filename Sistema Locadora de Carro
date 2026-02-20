@@ -1,0 +1,50 @@
+# 🎥 Vídeo de Apresentação – Sistema de Locadora de Veículos
+
+## 📺 Link do Vídeo
+
+Assista no YouTube:  
+https://www.youtube.com/watch?v=qY26DZHvuW4
+
+
+---
+
+## 📘 Descrição do Vídeo — Trabalho Final de Banco de Dados II
+
+Este vídeo apresenta o desenvolvimento completo do projeto **Sistema de Locação de Veículos**, realizado para a disciplina de **Banco de Dados II**.
+
+Ao longo da explicação, são apresentados:
+
+- Modelo Lógico (DER) e decisões de modelagem  
+- Execução dos scripts SQL (DDL e DML)  
+- Consultas utilizando:
+  - JOIN  
+  - GROUP BY  
+  - Funções de agregação  
+  - CASE  
+
+- Criação e utilização de VIEW  
+- Criação e funcionamento de:
+  - PROCEDURE  
+  - FUNCTION  
+
+O banco de dados foi implementado em **MySQL**, seguindo boas práticas de:
+
+- Normalização  
+- Organização  
+- Integridade dos dados  
+
+
+---
+
+## ℹ️ Observação
+
+O vídeo possui duração de **06:24**, ultrapassando ligeiramente o tempo previsto.
+
+---
+
+## 🎓 Informações Acadêmicas
+
+**Disciplina:** Banco de Dados II  
+**Aluno:** Guilherme Brito Andrade  
+**Curso:** Engenharia de Software  
+**Ano:** 2025
